@@ -8558,7 +8558,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprint:CAPC2012X94N"
 			(at 187.6552 121.92 0)
 			(effects
 				(font
@@ -8963,7 +8963,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MAJCT168BB7105KTEA01:MAJx16"
 			(at 258.7752 148.59 0)
 			(effects
 				(font
@@ -9508,7 +9508,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprint:CAPC2012X94N"
 			(at 82.55 117.1448 0)
 			(effects
 				(font
@@ -9569,7 +9569,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1uF"
 			(at 148.59 40.6399 0)
 			(effects
 				(font
@@ -9578,7 +9578,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MAJCT168BB7105KTEA01:MAJx16"
 			(at 145.7452 43.18 0)
 			(effects
 				(font
@@ -9646,7 +9646,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_Amphenol_12401610E4-2A"
 			(at 78.74 52.07 0)
 			(effects
 				(font
@@ -9759,7 +9759,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MAJCT168BB7105KTEA01:MAJx16"
 			(at 115.57 136.1948 0)
 			(effects
 				(font
@@ -10094,7 +10094,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MAJCT168BB7105KTEA01:MAJx16"
 			(at 261.3152 76.2 0)
 			(effects
 				(font
@@ -10162,7 +10162,7 @@
 				)
 			)
 		)
-		(property "Footprint" "IC57_RP2040"
+		(property "Footprint" "RP2040:IC57_RP2040"
 			(at 173.99 29.21 0)
 			(effects
 				(font
@@ -10462,7 +10462,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MAJCT168BB7105KTEA01:MAJx16"
 			(at 104.14 179.3748 0)
 			(effects
 				(font
@@ -10664,7 +10664,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MAJCT168BB7105KTEA01:MAJx16"
 			(at 79.7052 171.45 0)
 			(effects
 				(font
@@ -11004,7 +11004,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MAJCT168BB7105KTEA01:MAJx16"
 			(at 268.9352 105.41 0)
 			(effects
 				(font
@@ -11207,7 +11207,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MAJCT168BB7105KTEA01:MAJx16"
 			(at 252.4252 77.47 0)
 			(effects
 				(font
@@ -11544,7 +11544,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Horizontal"
 			(at 106.68 106.68 0)
 			(effects
 				(font
@@ -11680,7 +11680,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MAJCT168BB7105KTEA01:MAJx16"
 			(at 107.95 171.7548 0)
 			(effects
 				(font
@@ -11750,7 +11750,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprint:CAPC2012X94N"
 			(at 174.9552 121.92 0)
 			(effects
 				(font
@@ -11820,7 +11820,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MAJCT168BB7105KTEA01:MAJx16"
 			(at 257.5052 105.41 0)
 			(effects
 				(font
@@ -11887,7 +11887,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MAJCT168BB7105KTEA01:MAJx16"
 			(at 104.14 194.6148 0)
 			(effects
 				(font
@@ -11937,7 +11937,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "7dcf5be3-6567-4b45-ab4b-25b7f42197c9")
 		(property "Reference" "C14"
 			(at 107.95 27.9399 0)
@@ -11948,16 +11947,15 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1uF"
 			(at 107.95 30.4799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MAJCT168BB7105KTEA01:MAJx16"
 			(at 105.1052 33.02 0)
 			(effects
 				(font
@@ -12095,7 +12093,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MAJCT168BB7105KTEA01:MAJx16"
 			(at 272.7452 148.59 0)
 			(effects
 				(font
@@ -12165,7 +12163,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "GMK316AB7475KLHT:CAPC3216X180N"
 			(at 56.8452 156.21 0)
 			(effects
 				(font
@@ -12623,7 +12621,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MAJCT168BB7105KTEA01:MAJx16"
 			(at 104.14 164.1348 0)
 			(effects
 				(font
@@ -13025,7 +13023,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "GMK316AB7475KLHT:CAPC3216X180N"
 			(at 44.1452 171.45 0)
 			(effects
 				(font
@@ -13297,7 +13295,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Horizontal"
 			(at 106.68 92.71 0)
 			(effects
 				(font
@@ -13573,7 +13571,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprint:CAPC2012X94N"
 			(at 238.4552 121.92 0)
 			(effects
 				(font
@@ -13640,7 +13638,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MAJCT168BB7105KTEA01:MAJx16"
 			(at 107.95 156.5148 0)
 			(effects
 				(font
@@ -13710,7 +13708,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprint:CAPC2012X94N"
 			(at 225.7552 121.92 0)
 			(effects
 				(font
@@ -13981,7 +13979,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprint:CAPC2012X94N"
 			(at 200.3552 121.92 0)
 			(effects
 				(font
@@ -14180,7 +14178,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MAJCT168BB7105KTEA01:MAJx16"
 			(at 107.95 186.9948 0)
 			(effects
 				(font
@@ -14316,7 +14314,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprint:CAPC2012X94N"
 			(at 245.11 105.7148 0)
 			(effects
 				(font
@@ -14386,7 +14384,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprint:CAPC2012X94N"
 			(at 213.0552 121.92 0)
 			(effects
 				(font
@@ -14456,7 +14454,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "VLMC3100-GS08:LEDM3528X185N"
 			(at 46.99 39.37 0)
 			(effects
 				(font
@@ -14590,7 +14588,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Horizontal"
 			(at 48.26 162.56 0)
 			(effects
 				(font

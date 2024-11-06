@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GMK316AB7475KLHT
+D 4.7 F +/-10% 35V Ceramic Capacitor X7R 1206 (3216 Metric)
+K
+F https://ds.yuden.co.jp/TYCOMPAS/ap/specSheet?pn=MMASG31LAB7475KTNA01
+$ENDCMP
+#
+#End Doc Library

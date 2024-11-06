@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "footprint")(type "KiCad")(uri "${KIPRJMOD}/KAM21BR71H104KM/footprint")(options "")(descr ""))
+  (lib (name "GMK316AB7475KLHT")(type "KiCad")(uri "${KIPRJMOD}/GMK316AB7475KLHT/KiCad/footprint")(options "")(descr ""))
+  (lib (name "VLMC3100-GS08")(type "KiCad")(uri "${KIPRJMOD}/VLMC3100-GS08/KiCad")(options "")(descr ""))
+)
