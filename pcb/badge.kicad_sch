@@ -8761,7 +8761,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 33.782 96.52 90)
 			(effects
 				(font
@@ -9031,7 +9031,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 265.43 127.508 90)
 			(effects
 				(font
@@ -9826,7 +9826,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 104.14 44.958 90)
 			(effects
 				(font
@@ -10734,7 +10734,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_2010_5025Metric"
 			(at 45.212 185.42 90)
 			(effects
 				(font
@@ -11275,7 +11275,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1210_3225Metric"
 			(at 255.27 57.912 90)
 			(effects
 				(font
@@ -12023,7 +12023,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1210_3225Metric"
 			(at 255.27 49.022 90)
 			(effects
 				(font
@@ -12478,7 +12478,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1k"
 			(at 49.53 33.0199 0)
 			(effects
 				(font
@@ -12487,7 +12487,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 45.212 31.75 90)
 			(effects
 				(font
@@ -13159,7 +13159,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_01005_0402Metric"
 			(at 156.972 87.63 90)
 			(effects
 				(font
@@ -13363,7 +13363,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_01005_0402Metric"
 			(at 116.84 43.688 90)
 			(effects
 				(font
@@ -13433,7 +13433,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 55.372 185.42 90)
 			(effects
 				(font
@@ -13776,7 +13776,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FC4SDCBMF12.0-T1:CRYSTAL_HC49SDLF_FXT"
 			(at 265.43 135.89 0)
 			(effects
 				(font
@@ -13843,7 +13843,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 97.79 50.038 90)
 			(effects
 				(font
@@ -14658,7 +14658,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_FFC-FPC:Hirose_FH12-24S-0.5SH_1x24-1MP_P0.50mm_Horizontal"
 			(at 134.62 148.59 0)
 			(effects
 				(font
@@ -14792,7 +14792,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "GMK316AB7475KLHT:CAPC3216X180N"
 			(at 44.45 59.69 0)
 			(effects
 				(font
@@ -14928,7 +14928,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 30.48 103.378 90)
 			(effects
 				(font
