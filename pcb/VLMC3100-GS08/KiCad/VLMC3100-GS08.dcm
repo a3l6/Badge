@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP VLMC3100-GS08
-D Vishay VLMC3100-GS08 Green LED, 575 nm, PLCC 2, Round Lens SMD Package
-K
-F http://www.vishay.com/docs/81649/vlmc310.pdf
-$ENDCMP
-#
-#End Doc Library
