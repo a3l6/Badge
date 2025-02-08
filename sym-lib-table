@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "F71CEPLJRETY32Q-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/F71CEPLJRETY32Q-eagle-import.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,11 @@
+### Footprint positions - created on 2025-02-07T00:20:01-0500 ###
+### Printed by KiCad version 8.0.8-8.0.8-0~ubuntu22.04.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                  Package                PosX       PosY       Rot  Side
+ANT0      25X48MM_NFC_ANTENNA  25X48MM_NFC        148.5011  -132.3036  180.0000  bottom
+C1        220_nf               C0603_348          148.5011   -97.4036  180.0000  bottom
+LED1                           SML0805_259        148.5011   -91.5336    0.0000  bottom
+NT3H1101  NT3H                 XQFN8              148.5011   -99.8936    0.0000  bottom
+R1        47_Ω                R0603_348          148.5011   -95.0000    0.0000  bottom
+## End
