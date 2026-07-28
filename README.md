@@ -2,9 +2,9 @@
 
 **The ambitious version.** A full smart conference badge built around an **RP2040** microcontroller with a **2.13" e-paper display**, USB-C, and onboard flash. This was the first serious attempt at the Hack Canada badge before the design was later simplified into the battery-free NFC badges of v3 and v4.
 
-![v2 badge front](assets/v2-front.png)
+![v2 badge — fully assembled with the e-paper display mounted](assets/v2-with-screen.png)
 
-> Images are renders generated from this version's Gerber files (`pcb/prod/gerber/`). Colours are illustrative.
+> The main render shows all 51 components placed at their real board positions with the 2.13" e-paper panel mounted on top. Renders are generated from this version's Gerber files (`pcb/prod/gerber/`); colours and the on-screen layout are illustrative.
 
 ---
 
@@ -59,13 +59,7 @@ All 51 components drawn at their real board positions — the RP2040 and LDO as 
 
 ![v2 badge assembled](assets/v2-assembled.png)
 
-### With the e-paper display mounted
-
-The 2.13" GDEY0213F51 panel connects over the FPC ribbon connector (upper-left) and sits above the board across the open top area, with the RP2040 and power circuitry tucked below it. Here it's showing a sample conference-badge layout:
-
-![v2 badge with e-paper screen](assets/v2-with-screen.png)
-
-> The display panel is illustrated as it would sit when assembled; the on-screen layout is a placeholder mock-up, not artwork from the repo.
+The e-paper panel (shown mounted in the main image at the top) connects over the FPC ribbon connector at the upper-left and sits above the board across the open top area, with the RP2040 and power circuitry tucked below it. The on-screen layout in that render is a placeholder mock-up, not artwork from the repo.
 
 ## Repository layout (v2 branch)
 
