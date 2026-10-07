@@ -1,6 +1,6 @@
 # Hack Canada Badge — v2 (RP2040 + E-Paper)
 
-**The ambitious version.** A full smart conference badge built around an **RP2040** microcontroller with a **2.13" e-paper display**, USB-C, and onboard flash. This was the first serious attempt at the Hack Canada badge before the design was later simplified into the battery-free NFC badges of v3 and v4.
+This was the first serious attempt at the Hack Canada badge before the design was later simplified into the battery-free NFC badges of v3 and v4.
 
 ![v2 badge — fully assembled with the e-paper display mounted](assets/v2-with-screen.png)
 
