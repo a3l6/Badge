@@ -12,8 +12,6 @@ This was the first serious attempt at the Hack Canada badge before the design wa
 
 Where the later revisions stripped everything down to a passive NFC tag, v2 aimed high: a programmable badge with a screen you could actually put graphics and text on. It's essentially a tiny RP2040 development board in badge form, with an e-paper panel, USB-C for power and programming, and external flash for firmware and assets.
 
-The trade-off is cost and complexity — a screen, an MCU, a crystal, flash, USB-C, and all the supporting passives add up. That's what motivated the pivot to the "dirt cheap" NFC approach in v3/v4.
-
 ## How it works
 
 ```
