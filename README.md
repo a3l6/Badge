@@ -53,8 +53,6 @@ Plug it in over USB-C, flash firmware to the RP2040 (BOOTSEL/UF2 or SWD), and dr
 
 ### Assembled (parts placed)
 
-All 51 components drawn at their real board positions — the RP2040 and LDO as black QFN/SOT packages, USB-C and the 12 MHz crystal in metal, the power LED, Schottky diodes, and the dense field of caps and resistors around the MCU:
-
 ![v2 badge assembled](assets/v2-assembled.png)
 
 The e-paper panel (shown mounted in the main image at the top) connects over the FPC ribbon connector at the upper-left and sits above the board across the open top area, with the RP2040 and power circuitry tucked below it. The on-screen layout in that render is a placeholder mock-up, not artwork from the repo.
